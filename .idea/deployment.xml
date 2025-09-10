@@ -5,7 +5,7 @@
       <paths name="lxj@172.17.170.237:22 password">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/lxj/lxj/traffic" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
