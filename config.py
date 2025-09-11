@@ -1,6 +1,6 @@
 # config.py
 # 存放高德地图的 API Key
-AMAP_KEY = "67776bffb670150ffa9329fc295be15b"
+AMAP_KEY = "高德地图的 API Key"
 
 # 道路自由流速度配置 (km/h)
 FREE_FLOW_SPEEDS = {
